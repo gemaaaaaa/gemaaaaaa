@@ -1,20 +1,20 @@
-title: Your awesome title
+title: cyrls's blog
 description: >- # this means to ignore newlines until "email:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 
-email: your-email@example.com
-author: Your name
+email: gemasatriatama@gmail.com
+author: Cyrillus Gema Satria Tama
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social Media Links
 # Uncomment and add your usernames to display social media links in the footer
-github_username:  jekyll
-twitter_username: jekyllrb
-# instagram_username: 
+github_username:  gemaaaaaa
+# twitter_username: jekyllrb
+instagram_username: cyrillusgema
 # linkedin_username: 
 
 # Show excerpt (preview) of posts on homepage
@@ -26,7 +26,6 @@ excerpt_separator: <!-- break -->
 # Uncomment and add page paths in desired order
 header_pages:
   - about.md
-  - profile.md
 
 # Pagination settings
 paginate: 10              # Number of posts per page
